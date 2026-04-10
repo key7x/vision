@@ -12,4 +12,3 @@ luaobf_bundle['file'] = function(...)
 	local var = 1;
 end;
 return luaobf_bundle['file'](...);
-
